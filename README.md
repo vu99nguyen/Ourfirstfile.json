@@ -6,12 +6,6 @@
 },{
   "data": [{
   "weight" : 150.24,
-  "date" : "April 2, 2015"
-},{
-  "data": [{
-  "weight" : 149.60,
-  "date" : "April 3, 2015"
-}
   "date" : "April 2, 2015"}
 
 {
@@ -19,3 +13,9 @@
 "weight" : 149.1,
 "date" : April 4, 2015}
 ]}
+{
+"data": [{
+"weight" : 150.84,
+"date" : April 6, 2015
+}]
+}
